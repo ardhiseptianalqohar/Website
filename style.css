@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(147, 172, 172);
+}
+
+div.kotak1 {
+    color: brown;
+}
+
+div.info {
+    text-align: center;
+
+}
+
+h1 {
+    color: blueviolet;
+    text-align: center;
+}
